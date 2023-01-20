@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Photo gallery app with features like 
+1.4 random images display button,2.toggle to make images grayscale, and 3.loadmore button to display 4 more random images 
 
 ## Available Scripts
 
